@@ -1,0 +1,103 @@
+{
+"courses": [
+{
+"id": 1,
+"title": "React Development",
+"instructor": "Krishna",
+"video": "https://www.youtube.com/embed/CgkZ7MvWUAA",
+"notes": "https://www.w3schools.com/react/",
+"duration": "10 Hours",
+"topics": ["React Basics", "Hooks", "Components"]
+},
+{
+"id": 2,
+"title": "Java Programming",
+"instructor": "Rahul",
+"video": "https://www.youtube.com/embed/eIrMbAQSU34",
+"notes": "https://www.w3schools.com/java/",
+"duration": "15 Hours",
+"topics": ["Variables", "Loops", "OOP", "Inheritance"]
+},
+{
+"id": 3,
+"title": "Python Programming",
+"instructor": "Anil",
+"video": "https://www.youtube.com/embed/_uQrJ0TkZlc",
+"notes": "https://www.w3schools.com/python/",
+"duration": "12 Hours",
+"topics": ["Functions", "Lists", "Dictionaries", "Modules"]
+},
+{
+"id": 4,
+"title": "C++ Programming",
+"instructor": "Kiran",
+"video": "https://www.youtube.com/embed/vLnPwxZdW4Y",
+"notes": "https://www.w3schools.com/cpp/",
+"duration": "14 Hours",
+"topics": ["Pointers", "Arrays", "OOP", "STL"]
+},
+{
+"id": 5,
+"title": "JavaScript Essentials",
+"instructor": "Vamsi",
+"video": "https://www.youtube.com/embed/PkZNo7MFNFg",
+"notes": "https://www.w3schools.com/js/",
+"duration": "10 Hours",
+"topics": ["DOM", "Events", "ES6", "Async JS"]
+},
+{
+"id": 6,
+"title": "HTML5 Fundamentals",
+"instructor": "Sai",
+"video": "https://www.youtube.com/embed/pQN-pnXPaVg",
+"notes": "https://www.w3schools.com/html/",
+"duration": "6 Hours",
+"topics": ["Tags", "Forms", "Tables", "Semantic HTML"]
+},
+{
+"id": 7,
+"title": "CSS3 Mastery",
+"instructor": "Praveen",
+"video": "https://www.youtube.com/embed/1Rs2ND1ryYc",
+"notes": "https://www.w3schools.com/css/",
+"duration": "8 Hours",
+"topics": ["Selectors", "Flexbox", "Grid", "Animations"]
+},
+{
+"id": 8,
+"title": "SQL Database Management",
+"instructor": "Teja",
+"video": "https://www.youtube.com/embed/7S_tz1z_5bA",
+"notes": "https://www.w3schools.com/sql/",
+"duration": "10 Hours",
+"topics": ["SELECT", "INSERT", "UPDATE", "JOINS"]
+},
+{
+"id": 9,
+"title": "Web Development",
+"instructor": "Arjun",
+"video": "https://www.youtube.com/embed/Q33KBiDriJY",
+"notes": "https://www.w3schools.com/whatis/",
+"duration": "20 Hours",
+"topics": ["HTML", "CSS", "JavaScript", "React"]
+},
+{
+"id": 10,
+"title": "Backend Development",
+"instructor": "Rohit",
+"video": "https://www.youtube.com/embed/Oe421EPjeBE",
+"notes": "https://expressjs.com/",
+"duration": "18 Hours",
+"topics": ["Node.js", "Express", "REST API", "MongoDB"]
+},
+{
+"id": 11,
+"title": "Data Structures & Algorithms",
+"instructor": "Gopal",
+"video": "https://www.youtube.com/embed/8hly31xKli0",
+"notes": "https://www.geeksforgeeks.org/data-structures/",
+"duration": "25 Hours",
+"topics": ["Arrays", "Linked Lists", "Stacks", "Trees"]
+}
+]
+}
